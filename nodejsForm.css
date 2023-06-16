@@ -1,0 +1,32 @@
+button{
+    opacity: 0.7;
+    margin: 15px;
+    padding: 8px;
+    height: 32px;
+    width: 60px;
+    border-color: transparent;
+    border-radius: 5px;
+}
+text{
+    size: 2rem;
+}
+body{
+    background-color: rgb(132, 226, 132);
+}
+input{
+    opacity: 0.7;
+    margin: 15px;
+    padding: 8px;
+    width: 30%;
+    border-color: transparent;
+    border-radius: 5px;
+}
+.Data{
+    padding: 10px;
+    background-color: white;
+    width: 70%;
+    border-radius: 5px;
+}
+td{
+    padding: 2px;
+}
